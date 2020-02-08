@@ -1,1 +1,1 @@
-print("the real jelonx was here")
+This is your first step in learning how to code.
